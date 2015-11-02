@@ -1,4 +1,4 @@
-# PDX-D2-Bitmap-transformer
+# Bitmap-transformer
 
 Simple javascript object for doing color inversion and grayscale transformations on bitmaps
 
