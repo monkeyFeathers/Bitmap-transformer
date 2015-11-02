@@ -1,8 +1,8 @@
 {
-  "name": "bitmat-transformer",
+  "name": "bitmap-transformer",
   "version": "0.1.0",
   "description": "Small package that will read a Bitmap in from disk, run one or more color transforms on the bitmap and then write it out to a new file.",
-  "main": "main.js",
+  "main": "bitmap.js",
   "scripts": {
     "test": "mocha"
   },
