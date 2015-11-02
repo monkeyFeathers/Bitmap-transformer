@@ -10,7 +10,7 @@ Simple javascript object for doing color inversion and grayscale transformations
 
 Import like normal
 
-`var Bitmap = require('bitmap')`
+`var Bitmap = require('bitmap-transformer')`
 
 ### load
 
