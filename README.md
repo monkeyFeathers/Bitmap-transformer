@@ -4,7 +4,7 @@ Simple javascript object for doing color inversion and grayscale transformations
 
 ## Installation
 
-`npm install git://github.com/brentertz/scapegoat.git`
+`npm install git://github.com/monkeyFeathers/Bitmap-transformer`
 
 ## Usage
 
